@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepihohma.francosasieta.com/sitemap.xml
